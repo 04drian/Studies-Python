@@ -32,3 +32,5 @@ if lista == []:
     lista = [0]
 
 print(f'- Média de Idades: {si/4}\n- Nome do homem mais velho: {dc[lista[len(lista)-1]]}\n- Mulheres com menos de 20 anos: {sf}')
+
+# pão
