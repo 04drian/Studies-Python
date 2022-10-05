@@ -34,22 +34,22 @@ while True:
 
     text0 = f'\033[{stl["negrito"]};{cdt["verde"]}m'\
         \
-            f'[1] Adição ✨\n'\
-            f'[2] Subtração ✨\n'\
-            f'[3] Multiplicação ✨\n'\
-            f'[4] Divisão ✨\n'\
-            f'[5] Potênciação ✨\n'\
-            f'[6] Raíz ✨\n'\
-            f'[7] Para sair 🚨 '        
+            f'[1] Adição ⁂\n'\
+            f'[2] Subtração ⁂\n'\
+            f'[3] Multiplicação ⁂\n'\
+            f'[4] Divisão ⁂\n'\
+            f'[5] Potênciação ⁂\n'\
+            f'[6] Raíz ⁂\n'\
+            f'[7] Para sair ⁂ '        
 
     # Introdução das informações
 
     print(text0)
 
-    escolha = int(input('Digite aqui📄: '))
+    escolha = int(input('Digite aqui ⁂: '))
 
     # Escolha de operações: 
-        # Sair 🚨 
+        # Sair 
     if escolha == 7:
         break
 
