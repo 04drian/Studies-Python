@@ -20,8 +20,8 @@ tangente = tan(radians(numero_1))
 
 print(
     
-    f'Resultados:'
-    f'[Seno] {seno}'
-    f'[Coseno] {coseno}'
-    f'[Tangente] {tangente}'
+    f'- Resultados:\n'
+    f'[Seno] {seno:.2f}\n'
+    f'[Coseno] {coseno:.2f}\n'
+    f'[Tangente] {tangente:.2f}\n'
 )
